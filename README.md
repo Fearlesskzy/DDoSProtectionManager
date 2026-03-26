@@ -1,0 +1,1 @@
+This program helps detect dangerous content on your website, such as DDoS attacks, intrusions, and file extractions. Further development will allow it to automatically block these threats and make your website more secure through a multi-layered DDoS defense system.
